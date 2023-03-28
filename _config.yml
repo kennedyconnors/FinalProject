@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Kennedy Connors"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/penuin.jpg.png"
   bio    : "Hello, I am a fellow Kinesiology student at UofC and this is my website for KNES 381"
   links:
     - label: "Website"
