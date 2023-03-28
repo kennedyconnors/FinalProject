@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kinesiology 381
+title: Rehabilitation of Brain Injured
 email: kennedy.connors@ucalgary.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Welcome to Rehabilitation of Brain Injured! Here you will find a variety of information and videos that we have used to help with Rehabilitation of Brain inured. Bonus!! We included some raw data from a client. 
 github_username: kennedyconnors
 minimal_mistakes_skin: default
 search: true
@@ -64,28 +62,19 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+    - label: "Email"
+      icon: "fab fa-fw fa-mail" 
+      url: "http://gmail.com/"
+  
 defaults:
   # _posts
   - scope:
