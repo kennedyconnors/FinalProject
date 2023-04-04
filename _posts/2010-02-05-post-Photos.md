@@ -7,4 +7,4 @@ tags:
   - update
 ---
 
-> Take a look at specific things we noticed in these snapshots. 
+> Take a look at specific things we noticed in these snapshots
