@@ -1,6 +1,6 @@
 ---
-title: "Post: Hello"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Hello & Welcome"
+last_modified_at: 2023-03-09T16:20:02-05:00
 categories:
   - Blog
 tags:
@@ -9,6 +9,6 @@ tags:
   - standard
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+Welcome to MOVE and IMPROVE. As you navigate through this website you will notice several posts that will guide you through analysis of your preformance. We have included photographs, data analysis with figures and charts, and a video analysis. At the end we will provide you of an overview of the findings. Please let us know if you have any questions by hitting the Email link and get into contact with us. We hope you enjoy!
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+
