@@ -8,4 +8,4 @@ tags:
   - update
 ---
 
-This is the video analysis of Ted's Rehabilitation
+This is the video analysis section, where you will find our reccomendations based on your preformance 
