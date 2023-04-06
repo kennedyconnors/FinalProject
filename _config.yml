@@ -97,6 +97,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+     
+ gallery:
+      image_path: /assets/images/Proper-skating-form.jpg
 
 category_archive:
   type: liquid
