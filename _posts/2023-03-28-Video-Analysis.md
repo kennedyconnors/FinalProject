@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-This is the video analysis section, where you will find our reccomendations based on your preformance 
+This is the video analysis section. Today we are analyzing Mark Connor's golf swing. In this video you will notice snapshots where suggestions are made and specific benchmarks. We are working to improve Mark's golf swing and hope to elevate his preformance. 
 
 {% include video id="1f4zqls2YAg" provider="youtube" %}
 
