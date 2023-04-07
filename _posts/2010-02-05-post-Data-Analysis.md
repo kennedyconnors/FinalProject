@@ -11,8 +11,6 @@ tags:
 
 > Here is his data
 
-{% datatable Efficency&Economy-Cycling.csv search="true" paging="true" length_change="false" %}
-
 > Taking a look at this spread sheet we can come up with some conclusions 
 
 
