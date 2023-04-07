@@ -9,3 +9,6 @@ tags:
 ---
 
 This is the video analysis section, where you will find our reccomendations based on your preformance 
+
+{% include video id="1f4zqls2YAg" provider="youtube" %}
+
