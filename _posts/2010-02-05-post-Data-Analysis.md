@@ -16,3 +16,6 @@ tags:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Figure2.png" alt="">
 
 > Figure 2 shows a similar relationship with the gross cycling efficiency and power output. In this relationship as the power output increased in increments, the gross efficiency increased with it, suggesting that gross efficiency improves with increased power output, even when work rates are relatively low. 
+
+Here is the link to the spreadsheet used for analysis 
+link: https://uofc-my.sharepoint.com/:x:/g/personal/kennedy_connors_ucalgary_ca/EXsXoy-NvKtCnua_hwjN3BMBpaNp6jIHdgCjbpdCYcZtaA?e=KJSp0G
