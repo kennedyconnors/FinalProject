@@ -9,7 +9,7 @@ tags:
 
 > Welcome to the data analysis section! Today we are looking at the economy and efficiency of Jim, during his cycling. The goal was to analyze the relationship between power output and oxygen uptake, overall to determine the gross cycling efficiency of Jim during an incremental ergometry cycling test.
 
-> Here is his data
+> Here is the [link](https://uofc-my.sharepoint.com/:x:/g/personal/kennedy_connors_ucalgary_ca/EXsXoy-NvKtCnua_hwjN3BMBpaNp6jIHdgCjbpdCYcZtaA) to his data
 
 > Taking a look at this spread sheet we can come up with some conclusions 
 
