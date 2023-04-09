@@ -65,7 +65,7 @@ author:
       url: "https://kennedyconnors.github.io/FinalProject/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/kennedyconnors"
     - label: "Email"
       icon: "fab fa-fw fa-mail" 
       url: "https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTJpFGhzxxtwvzLdFDLkjdZPkzxCQlNrrzSpXBXqXXVbJPqbqZhDRGsKWBCgGMztfPLFDB"
@@ -74,10 +74,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/kennedyconnors"
     - label: "Email"
       icon: "fab fa-fw fa-mail" 
-      url: "http://gmail.com/"
+      url: "https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTJpFGhzxxtwvzLdFDLkjdZPkzxCQlNrrzSpXBXqXXVbJPqbqZhDRGsKWBCgGMztfPLFDB"
   
 defaults:
   # _posts
